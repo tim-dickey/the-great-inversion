@@ -40,3 +40,5 @@ The work that used to be slow, manual, and "senior" is increasingly automated by
 
 ## Bottom Line
 Your old skills remain vital; your new advantage is AI fluency—connecting AI capabilities to real product value while steering your team through turbulent waters.
+
+##Independentent Audit performed by Moe McDonald: https://github.com/emcdo411/ai-fluent-playbook/tree/main
