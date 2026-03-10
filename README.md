@@ -20,3 +20,5 @@ This organization of repositories exists to:
 👉 Get the full digital playbook at [greatinvert.com](https://www.greatinvert.com).
 
 A public preview repo with selected excerpts and examples will be published under this organization.
+
+© 2026 Tim Dickey. All rights reserved. Unauthorized reproduction is prohibited.
